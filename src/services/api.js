@@ -1,6 +1,5 @@
 import axios from 'axios'
 
-
 const API = axios.create({
   baseURL: 'https://taskmanager-backend-3d2y.onrender.com/api/'
 })
